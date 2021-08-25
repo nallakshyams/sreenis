@@ -1,0 +1,7 @@
+{
+  "name": "Sreenis",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
